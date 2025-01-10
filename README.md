@@ -9,7 +9,7 @@
 3. **As this repository contains binary data (e.g. schematics or images), make sure to have `git-lfs` installed!** Cloning this repository without `git-lfs` will result in missing or broken files.
 4. Then clone this repository:
     ```bash
-    $ git clone --recurse-submodules https://github.com/Open-Smartwatch/open-smartwatch-os.git
+    $ git clone --recurse-submodules https://github.com/DuckersMcQuack/open-smartwatch-os.git
     ```
 5. To update the sources / packages later on, run:
     ```bash
